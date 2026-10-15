@@ -1,16 +1,30 @@
-## Hi there 👋
+## Coding Stats
 
-<!--
-**SupraSilvr/SupraSilvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+Lapse        8h 10m 21s   █████████████████████░░░░  81.43%
+HTML         48m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+CSS          26m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Markdown     19m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+unknown      12m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
 
-Here are some ideas to get you started:
+Projects:
+Atlantis     8h 10m 21s   ██████████████████████░░░  86.84%
+AboutSupra   1h 3m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  11.32%
+spudnews     4m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.84%
+unknown      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.71%
+workspace    1m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.29%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here I have my hacktime stats:
+Languages:
+Lapse        8h 10m 21s   █████████████████████░░░░  81.43%
+HTML         48m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+CSS          26m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Markdown     19m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+unknown      12m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+
+Projects:
+Atlantis     8h 10m 21s   ██████████████████████░░░  86.84%
+AboutSupra   1h 3m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  11.32%
+spudnews     4m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.84%
+unknown      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.71%
+workspace    1m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.29%
